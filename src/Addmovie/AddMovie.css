@@ -1,0 +1,28 @@
+.search-button{
+    width: 120px;
+    height: 50px;;
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+    margin-top: 1%;
+}
+.add-button{
+    width: 120px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+    margin-top: 1%;
+}
+.filter-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2%;
+}
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2%;
+}
